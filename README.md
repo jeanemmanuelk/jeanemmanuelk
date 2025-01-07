@@ -5,9 +5,6 @@ MBA & MS in Data Analytics and Information Systems | BS in Computer Engineering
 
 💼 **Data Scientist Intern**  
 Focused on predictive modeling, machine learning, and data visualization.  
-
-📍 **United States**
-
 ---
 
 ## 🛠️ Skills
