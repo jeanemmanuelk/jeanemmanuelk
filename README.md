@@ -3,7 +3,7 @@
 🎓 **Recent Graduate**  
 MBA & MS in Data Analytics and Information Systems | BS in Computer Engineering  
 
-💼 **Data Scientist Intern**  
+💼 **Data Scientist**  
 Focused on predictive modeling, machine learning, and data visualization.  
 ---
 
