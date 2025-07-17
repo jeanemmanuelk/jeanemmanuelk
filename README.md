@@ -3,12 +3,12 @@
 🎓 **Recent Graduate**  
 MBA & MS in Data Analytics and Information Systems | BS in Computer Engineering  
 
-💼 **Data Scientist**  
-Focused on predictive modeling, machine learning, and data visualization.  
+💼 **Data Scientist/Analyst/Engineer**  
+Focused on predictive modeling, machine learning, ETL, and data visualization.  
 ---
 
 ## 🛠️ Skills
-Machine Learning | NLP | Python | Data Science | SQL | Tableau | Power BI | AWS  
+Machine Learning | NLP | Python | Data Science | SQL | Tableau | Power BI | AWS | Azure Databricks | Data Engineering | Data Analytics
 
 ---
 
