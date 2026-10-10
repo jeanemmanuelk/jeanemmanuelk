@@ -1,20 +1,27 @@
-# 👋 Hi, I'm Jean Emmanuel Kouadio!
+# Hi, I'm Jean-Emmanuel
 
-🎓 **Recent Graduate**  
-MBA & MS in Data Analytics and Information Systems | BS in Computer Engineering  
+I'm an AI researcher focused on healthcare. I'm about to start a PhD in Computer Science, and I care about making machine learning trustworthy enough for medicine.
 
-💼 **Data Scientist/Analyst/Engineer**  
-Focused on predictive modeling, machine learning, ETL, and data visualization.  
----
+## Research interests
 
-## 🛠️ Skills
-Machine Learning | NLP | Python | Data Science | SQL | Tableau | Power BI | AWS | Azure Databricks | Data Engineering | Data Analytics
+Transfer learning, medical imaging, clinical machine learning, and models that can be explained to the people who use them.
 
----
+## Background
 
-## 📫 Contact
-[linkedin.com/in/j-emmanuel-k](https://www.linkedin.com/in/j-emmanuel-k/) | [emmanuelkj5@gmail.com](mailto:emmanuelkj5@gmail.com)
+- 3 years of NIH-funded research on cancer immunotherapy modeling, with 3 peer-reviewed posters
+- MBA, M.S. in Data Analytics & Information Systems, and B.S. in Computer Engineering
+- Data Science internship at Abt Global
 
----
+## Featured work
 
-*Passionate about transforming data into actionable insights.*
+- [Butterfly classification](https://github.com/jeanemmanuelk/cnn-vs-transfer-learning-for-butterfly-image-classification): fine-tuned ResNet18 reached 91.6% accuracy, 29 points above a from-scratch CNN
+- [Fake news detection](https://github.com/jeanemmanuelk/Fake_news_Detector_LSTM): LSTM with 99% test accuracy
+- [Credit risk model](https://github.com/jeanemmanuelk/Credit_Risk_modeling): ROC-AUC about 0.90
+
+## Tools
+
+Python, TensorFlow, Scikit-learn, SQL, PySpark, Azure Databricks, Power BI
+
+## Find me
+
+[Portfolio](https://jeanemmanuelk.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/j-emmanuel-k/) | emmanuelkj5@gmail.com
