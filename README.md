@@ -1,6 +1,6 @@
 # Hi, I'm Jean-Emmanuel
 
-I'm an AI researcher focused on healthcare. I'm about to start a PhD in Computer Science, and I care about making machine learning trustworthy enough for medicine.
+I'm an AI researcher focused on healthcare. I care about making machine learning trustworthy enough for medicine.
 
 ## Research interests
 
