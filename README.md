@@ -15,8 +15,8 @@ Transfer learning, medical imaging, clinical machine learning, and models that c
 ## Featured work
 
 - [Chest X-ray pneumonia detection](https://github.com/jeanemmanuelk/chest-xray-pneumonia-transfer-learning): pretrained ResNet18 reached AUROC 0.98 vs 0.93 for a from-scratch CNN, with confidence intervals and Grad-CAM
-- [Butterfly classification](https://github.com/jeanemmanuelk/cnn-vs-transfer-learning-for-butterfly-image-classification): fine-tuned ResNet18 reached 91.6% accuracy, 29 points above a from-scratch CNN
-- [Fake news detection](https://github.com/jeanemmanuelk/Fake_news_Detector_LSTM): LSTM with 99% test accuracy
+- [Butterfly classification](https://github.com/jeanemmanuelk/cnn-vs-transfer-learning-for-butterfly-image-classification): fine-tuned ResNet18 reached 91.6% validation accuracy, about 28 points above a from-scratch CNN (63.9%)
+- [Fake news detection](https://github.com/jeanemmanuelk/Fake_news_Detector_LSTM): LSTM with 99.5% test accuracy
 
 ## Tools
 
